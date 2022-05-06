@@ -1,0 +1,46 @@
+  .h
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .h_div
+  {
+    float: none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .h_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .dinok
+  {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: chartreuse;
+  color:wheat ;
+  line-height: 3;
+  font-size: 15;
+  }
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+  canvas
+  {
+  border:5px solid whitesmoke;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+  margin-top: 160px;
+  }
